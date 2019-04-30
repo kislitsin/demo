@@ -1,4 +1,9 @@
 {
+  tasks": [
+    { "id": 1, "name": "Task 1" },
+    { "id": 2, "name": "Task 2"},
+    { "id": 3, "name": "Post 3a"}
+  ],
   "posts": [
     { "id": 1, "title": "Post 1a", "body": "Body1a..." },
     { "id": 2, "title": "Post 2a", "body": "Body2a..." },
