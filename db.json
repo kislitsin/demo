@@ -1,4 +1,19 @@
 {
+ "assignments":[
+  {"id":1, "name": "assignment 1", 
+    "objs":[
+    {"obid":1, "obname": "object no 1"},
+    {"obid":2, "obname": "object no 2"},
+    {"obid":3, "obname": "object no 3"}
+    ]
+   },
+  {"id":2, "name": "assignment 2", 
+    "objs":[
+    {"obid":4, "obname": "object no 4"},
+    {"obid":5, "obname": "object no 5"},
+    {"obid":6, "obname": "object no 6"}
+    ]
+  ],
  "tasks": [
     { "id": 1, "name": "Task 1"},
     { "id": 2, "name": "Task 2"},
