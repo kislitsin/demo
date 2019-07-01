@@ -13,6 +13,7 @@
     {"obid":5, "obname": "object no 5"},
     {"obid":6, "obname": "object no 6"}
     ]
+  }
   ],
  "tasks": [
     { "id": 1, "name": "Task 1"},
