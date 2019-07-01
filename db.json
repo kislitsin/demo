@@ -18,6 +18,7 @@
     { "id": 2, "body": "some comment2", "postId": 1 }
   ],
   "profile": {
-    "name": "kislitsin"
+    "name": "kislitsin",
+    "password":"123456"
   }
 }
